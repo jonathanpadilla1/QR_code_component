@@ -1,10 +1,5 @@
-# QR Code Component
+#QR Code Component
 
 This is a QR code component challenge from Frontend Mentor, made using HTML and CSS.<br/>
 
-Click to see [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) challenge.<br/> 
-
-![My Image](images/img-1.png)
-
-
-
+![My Image](img-1.png)
